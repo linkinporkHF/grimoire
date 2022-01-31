@@ -1,13 +1,10 @@
 # Methodology
 Porky's Methodology. Please read Licensing HERE: https://github.com/linkinporkHF/grimoire/blob/main/LICENSE
-
+`IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.`
 
 ## What is the Penetration Testing Life Cycle
 ![Penetration Testing Cycle](https://www.securnite.com/wp-content/uploads/2018/10/Penetration-Testing-Lifecycle.png)
 Source: https://www.securnite.com/wp-content/uploads/2018/10/Penetration-Testing-Lifecycle.png
-
-`IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.`
-
 
 ## Parts of the Pentest Life Cycle
 - **Reconnaissance/Information Gathering**: learn about your target from the outside - use search engines, Wayback Machine, pastebin, leaked databases
